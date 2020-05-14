@@ -11,6 +11,7 @@ return cards;
 function countDown(integar) {
   let i = integar;
   while (i >= 0) {
-  console.log(i--);
+  console.log(i);
+  i--
   }
 }
